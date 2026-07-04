@@ -1,6 +1,3 @@
-cdn.js
-
-
 const SoulWinnerTelemetry = (function () {
     'use strict';
     
